@@ -1,0 +1,5 @@
+In order to avoid large files in this git the ycb objects have to be downloaded manually here:
+https://drive.google.com/uc?export=download&id=1tHPAQ2aPdkp8cwtFP4gs4wdcP02jfGpH
+
+Please copy the relevant ycb object folders here in the form "003_cracker_box".
+After that please replace its "model_normalized.urdf" with the corresponding urdf file from this repository.
